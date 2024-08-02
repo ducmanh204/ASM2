@@ -1,0 +1,5 @@
+E:\Hoc\KTNC\ASM2-master\Bai1\B2\obj\Debug\net8.0\B2.csproj.AssemblyReference.cache
+E:\Hoc\KTNC\ASM2-master\Bai1\B2\obj\Debug\net8.0\B2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc\KTNC\ASM2-master\Bai1\B2\obj\Debug\net8.0\B2.AssemblyInfoInputs.cache
+E:\Hoc\KTNC\ASM2-master\Bai1\B2\obj\Debug\net8.0\B2.AssemblyInfo.cs
+E:\Hoc\KTNC\ASM2-master\Bai1\B2\obj\Debug\net8.0\B2.csproj.CoreCompileInputs.cache
